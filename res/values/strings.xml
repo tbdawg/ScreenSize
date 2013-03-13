@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Screen Size</string>
+	<string name="natural">Natural Display:</string>
+	<string name="orientation">Orientation:</string>
+	<string name="rotation">Rotation:</string>
+	<string name="height">Pixel Height:</string>
+	<string name="width">Pixel Width:</string>
+	<string name="density">Density:</string>
+	<string name="densityDpi">Density DPI:</string>
+	<string name="densityType">Density Type:</string>
+	<string name="scaledDensity">Scaled Density:</string>
+	<string name="xdpi">XDPI:</string>
+	<string name="ydpi">YDPI:</string>
+	<string name="aspectRatio">Aspect Ratio:</string>
+
+</resources>
